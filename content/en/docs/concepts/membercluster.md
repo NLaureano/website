@@ -77,6 +77,6 @@ For detailed instructions, please refer to this [document](/docs/how-tos/taints-
 
 ## What's next
 * Get hands-on experience [how to add a member cluster to a fleet](/docs/how-tos/clusters).
-* Explore the [`ClusterResourcePlacement` concept to placement cluster scope resources among managed clusters](crpc).
+* Explore the [`ClusterResourcePlacement` concept to placement cluster scope resources among managed clusters](crp).
 
 

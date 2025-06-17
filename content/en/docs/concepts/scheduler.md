@@ -114,4 +114,4 @@ the scheduler won't move any existing resources that are already scheduled and j
     * The selected resources is updated without directly affecting the `ClusterResourcePlacement`.
 
 ## What's next
- * Read about [Scheduling Framework](scheduler-framework)
+ * Read about [Scheduling Framework](scheduling-framework)

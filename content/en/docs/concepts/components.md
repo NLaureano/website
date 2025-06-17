@@ -17,8 +17,8 @@ The fleet-member-agent is pulling the latest CRs from the hub cluster and consis
 the desired state.
 
 The fleet implements agent-based pull mode. So that the working pressure can be distributed to the member clusters, and it
-helps to breach the bottleneck of scalability, by dividing the load into each member cluster. On the other hand, hub
-cluster does not need to directly access to the member clusters. Fleet can support the member clusters which only have 
+helps to breach the bottleneck of scalability, by dividing the load into each member cluster. On the other hand, the hub
+cluster does not need to directly access the member clusters. Fleet can support the member clusters which only have 
 the outbound network and no inbound network access.
 
 To allow multiple clusters to run securely, fleet will create a reserved namespace on the hub cluster to isolate the access permissions and
